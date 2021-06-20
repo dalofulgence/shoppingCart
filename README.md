@@ -7,7 +7,7 @@ This sofware is a shopping cart that will prompt the user for a list of option s
 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Du586AVuey0)
 
 # Development Environment
 
