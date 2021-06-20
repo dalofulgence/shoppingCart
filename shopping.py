@@ -68,7 +68,7 @@ def removeItem():
     item = input("Write item to remove: ")
     if item in shopping_list:
         # remove item from the shopping list
-        shopping_list.remove(tem)
+        shopping_list.remove(item)
         print("{} has been removed from your list.".format(item))
     else:
         print("{} is not in your list.".format(item))
